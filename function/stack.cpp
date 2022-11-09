@@ -7,7 +7,7 @@ int main(void)
 {
     int a = 10, b = 5;    // #4
     int res = test(a, b); // #5
-    cout << 'result of test :' << res << end1;
+    cout << 'result of test :' << res << endl;
     return 0;
 }
 
